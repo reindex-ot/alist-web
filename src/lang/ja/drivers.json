@@ -1,0 +1,789 @@
+{
+  "115 Cloud": {
+    "cookie": "Cookie",
+    "cookie-tips": "one of QR code token and cookie required",
+    "page_size": "ページサイズ",
+    "page_size-tips": "list api per page size of 115 driver",
+    "qrcode_token": "QRコードトークン",
+    "qrcode_token-tips": "one of QR code token and cookie required",
+    "root_folder_id": "ルートフォルダID"
+  },
+  "123Pan": {
+    "order_by": "Order by",
+    "order_bys": {
+      "file_name": "ファイル名",
+      "size": "Size",
+      "update_at": "Update at"
+    },
+    "order_direction": "Order direction",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "password": "パスワード",
+    "root_folder_id": "ルートフォルダID",
+    "username": "ユーザー名"
+  },
+  "123PanLink": {
+    "origin_urls": "Origin urls",
+    "origin_urls-tips": "structure:FolderName:\n  [FileSize:][Modified:]Url",
+    "private_key": "プライベートキー",
+    "uid": "UID",
+    "valid_duration": "Valid duration",
+    "valid_duration-tips": "minutes"
+  },
+  "123PanShare": {
+    "order_by": "Order by",
+    "order_bys": {
+      "file_name": "ファイル名",
+      "size": "サイズ",
+      "update_at": "Update at"
+    },
+    "order_direction": "Order direction",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "root_folder_id": "ルートフォルダID",
+    "sharekey": "共有キー",
+    "sharepassword": "共有パスワード"
+  },
+  "139Yun": {
+    "authorization": "認証",
+    "cloud_id": "クラウドID",
+    "root_folder_id": "ルートフォルダID",
+    "type": "種類",
+    "types": {
+      "family": "ファミリー",
+      "personal": "パーソナル"
+    }
+  },
+  "189Cloud": {
+    "cookie": "Cookie",
+    "cookie-tips": "Fill in the cookie if need captcha",
+    "password": "パスワード",
+    "root_folder_id": "ルートフォルダID",
+    "username": "ユーザー名"
+  },
+  "189CloudPC": {
+    "family_id": "ファミリーID",
+    "no_use_ocr": "No use ocr",
+    "order_by": "Order by",
+    "order_bys": {
+      "filename": "ファイル名",
+      "filesize": "サイズ",
+      "lastOpTime": "LastOpTime"
+    },
+    "order_direction": "Order direction",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "password": "パスワード",
+    "rapid_upload": "Rapid upload",
+    "root_folder_id": "ルートフォルダID",
+    "type": "種類",
+    "types": {
+      "family": "ファミリー",
+      "personal": "パーソナル"
+    },
+    "upload_method": "アップロード方式",
+    "upload_methods": {
+      "old": "古い",
+      "rapid": "Rapid",
+      "stream": "ストリーム"
+    },
+    "upload_thread": "アップロードスレッド",
+    "upload_thread-tips": "1\u003c=thread\u003c=32",
+    "username": "ユーザー名",
+    "validate_code": "Validate code"
+  },
+  "AList V2": {
+    "access_token": "アクセストークン",
+    "password": "パスワード",
+    "root_folder_path": "ルートフォルダのパス",
+    "url": "URL"
+  },
+  "AList V3": {
+    "meta_password": "Metaパスワード",
+    "password": "パスワード",
+    "root_folder_path": "ルートフォルダのパス",
+    "token": "トークン",
+    "url": "URL",
+    "username": "ユーザー名"
+  },
+  "Alias": {
+    "paths": "パス"
+  },
+  "Aliyundrive": {
+    "internal_upload": "Internal upload",
+    "order_by": "Order by",
+    "order_bys": {
+      "created_at": "Created at",
+      "name": "名前",
+      "size": "サイズ",
+      "updated_at": "Updated at"
+    },
+    "order_direction": "Order direction",
+    "order_directions": {
+      "ASC": "ASC",
+      "DESC": "DESC"
+    },
+    "rapid_upload": "Rapid upload",
+    "refresh_token": "トークンを更新",
+    "root_folder_id": "ルートフォルダID"
+  },
+  "AliyundriveOpen": {
+    "client_id": "クライアントID",
+    "client_id-tips": "Keep it empty if you don't have one",
+    "client_secret": "クライアントシークレット",
+    "client_secret-tips": "Keep it empty if you don't have one",
+    "drive_type": "ドライブの種類",
+    "drive_types": {
+      "backup": "バックアップ",
+      "default": "デフォルト",
+      "resource": "リソース"
+    },
+    "internal_upload": "Internal upload",
+    "internal_upload-tips": "If you are using Aliyun ECS is located in Beijing, you can turn it on to boost the upload speed",
+    "livp_download_format": "Livp download format",
+    "livp_download_formats": {
+      "jpeg": "JPEG",
+      "mov": "MOV"
+    },
+    "oauth_token_url": "OAuthトークンURL",
+    "order_by": "Order by",
+    "order_bys": {
+      "created_at": "Created at",
+      "name": "名前",
+      "size": "サイズ",
+      "updated_at": "Updated at"
+    },
+    "order_direction": "Order direction",
+    "order_directions": {
+      "ASC": "ASC",
+      "DESC": "DESC"
+    },
+    "rapid_upload": "Rapid upload",
+    "rapid_upload-tips": "If you enable this option, the file will be uploaded to the server first, so the progress will be incorrect",
+    "refresh_token": "Refresh token",
+    "remove_way": "Remove way",
+    "remove_ways": {
+      "delete": "削除",
+      "trash": "ごみ箱"
+    },
+    "root_folder_id": "ルートフォルダID"
+  },
+  "AliyundriveShare": {
+    "order_by": "Order by",
+    "order_bys": {
+      "created_at": "Created at",
+      "name": "Name",
+      "size": "Size",
+      "updated_at": "Updated at"
+    },
+    "order_direction": "Order direction",
+    "order_directions": {
+      "ASC": "ASC",
+      "DESC": "DESC"
+    },
+    "refresh_token": "トークンを更新",
+    "root_folder_id": "ルートフォルダID",
+    "share_id": "共有ID",
+    "share_pwd": "共有パスワード"
+  },
+  "BaiduNetdisk": {
+    "client_id": "クライアントID",
+    "client_secret": "クライアントシークレット",
+    "custom_crack_ua": "カスタムクラックUA",
+    "download_api": "APIをダウンロード",
+    "download_apis": {
+      "crack": "クラック",
+      "official": "公式"
+    },
+    "order_by": "Order by",
+    "order_bys": {
+      "name": "名前",
+      "size": "サイズ",
+      "time": "時刻"
+    },
+    "order_direction": "Order direction",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "refresh_token": "トークンを更新",
+    "root_folder_path": "ルートフォルダパス",
+    "upload_api": "APIをアップロード",
+    "upload_thread": "アップロードスレッド",
+    "upload_thread-tips": "1\u003c=thread\u003c=32"
+  },
+  "BaiduPhoto": {
+    "album_id": "アルバムID",
+    "client_id": "クライアントID",
+    "client_secret": "クライアントシークレット",
+    "delete_origin": "Delete origin",
+    "refresh_token": "トークンを更新",
+    "show_type": "種類を表示",
+    "show_types": {
+      "root": "ルート",
+      "root_only_album": "Root only album",
+      "root_only_file": "Root only file"
+    },
+    "upload_thread": "アップロードスレッド",
+    "upload_thread-tips": "1\u003c=thread\u003c=32"
+  },
+  "BaiduShare": {
+    "BDUSS": "BDUSS",
+    "pwd": "パスワード",
+    "root_folder_path": "ルートフォルダパス",
+    "surl": "SURL"
+  },
+  "Cloudreve": {
+    "address": "アドレス",
+    "cookie": "Cookie",
+    "custom_ua": "カスタムUA",
+    "password": "パスワード",
+    "root_folder_path": "ルートフォルダパス",
+    "username": "ユーザー名"
+  },
+  "Crypt": {
+    "directory_name_encryption": "Directory name encryption",
+    "directory_name_encryptions": {
+      "false": "False",
+      "true": "True"
+    },
+    "encrypted_suffix": "Encrypted suffix",
+    "encrypted_suffix-tips": "for advanced user only! encrypted files will have this suffix",
+    "filename_encoding": "Filename encoding",
+    "filename_encoding-tips": "for advanced user only!",
+    "filename_encodings": {
+      "base32": "Base32",
+      "base32768": "Base32768",
+      "base64": "Base64"
+    },
+    "filename_encryption": "Filename encryption",
+    "filename_encryptions": {
+      "obfuscate": "Obfuscate",
+      "off": "Off",
+      "standard": "スタンダード"
+    },
+    "password": "パスワード",
+    "password-tips": "the main password",
+    "remote_path": "Remote path",
+    "remote_path-tips": "This is where the encrypted data stores",
+    "salt": "Salt",
+    "salt-tips": "If you don't know what is salt, treat it as a second password. Optional but recommended"
+  },
+  "Dropbox": {
+    "client_id": "Client id",
+    "client_id-tips": "Keep it empty if you don't have one",
+    "client_secret": "Client secret",
+    "client_secret-tips": "Keep it empty if you don't have one",
+    "oauth_token_url": "Oauth token url",
+    "refresh_token": "Refresh token",
+    "root_folder_path": "Root folder path"
+  },
+  "FTP": {
+    "address": "アドレス",
+    "password": "パスワード",
+    "root_folder_path": "ルートフォルダパス",
+    "username": "ユーザー名"
+  },
+  "GoogleDrive": {
+    "chunk_size": "チャンクサイズ",
+    "chunk_size-tips": "chunk size while uploading (unit: MB)",
+    "client_id": "クライアントID",
+    "client_secret": "クライアントシークレット",
+    "order_by": "Order by",
+    "order_by-tips": "such as: folder,name,modifiedTime",
+    "order_direction": "Order direction",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "refresh_token": "トークンを更新",
+    "root_folder_id": "ルートフォルダID"
+  },
+  "GooglePhoto": {
+    "client_id": "クライアントID",
+    "client_secret": "Client secret",
+    "refresh_token": "Refresh token",
+    "root_folder_id": "Root folder id",
+    "show_archive": "Show archive"
+  },
+  "IPFS API": {
+    "endpoint": "エンドポイント",
+    "gateway": "ゲートウェイ",
+    "root_folder_path": "ルートフォルダパス"
+  },
+  "Lanzou": {
+    "account": "アカウント",
+    "baseUrl": "BaseURL",
+    "baseUrl-tips": "basic URL for file operation",
+    "cookie": "Cookie",
+    "cookie-tips": "about 15 days valid, ignore if shareUrl is used",
+    "password": "Password",
+    "repair_file_info": "修復ファイル情報",
+    "repair_file_info-tips": "To use webdav, you need to enable it",
+    "root_folder_id": "Root folder id",
+    "shareUrl": "共有URL",
+    "shareUrl-tips": "used to get the sharing page",
+    "share_password": "共有パスワード",
+    "type": "種類",
+    "types": {
+      "account": "アカウント",
+      "cookie": "Cookie",
+      "url": "Url"
+    }
+  },
+  "Local": {
+    "mkdir_perm": "Mkdir perm",
+    "root_folder_path": "Root folder path",
+    "show_hidden": "Show hidden",
+    "show_hidden-tips": "show hidden directories and files",
+    "thumb_cache_folder": "サムネイルキャッシュフォルダ",
+    "thumbnail": "サムネイル",
+    "thumbnail-tips": "サムネイルを有効化"
+  },
+  "MediaTrack": {
+    "access_token": "アクセストークン",
+    "order_by": "Order by",
+    "order_bys": {
+      "size": "サイズ",
+      "title": "タイトル",
+      "updated_at": "Updated at"
+    },
+    "order_desc": "Order desc",
+    "project_id": "Project id",
+    "root_folder_id": "Root folder id"
+  },
+  "Mega_nz": {
+    "email": "Eメール",
+    "password": "パスワード"
+  },
+  "MoPan": {
+    "cloud_id": "Cloud id",
+    "device_info": "Device info",
+    "order_by": "Order by",
+    "order_bys": {
+      "filename": "Filename",
+      "filesize": "Filesize",
+      "lastOpTime": "LastOpTime"
+    },
+    "order_direction": "Order direction",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "password": "Password",
+    "phone": "Phone",
+    "root_folder_id": "Root folder id",
+    "upload_thread": "Upload thread",
+    "upload_thread-tips": "1\u003c=thread\u003c=32"
+  },
+  "Onedrive": {
+    "chunk_size": "チャンクサイズ",
+    "client_id": "クライアントID",
+    "client_secret": "クライアントシークレット",
+    "is_sharepoint": "Is sharepoint",
+    "redirect_uri": "リダイレクトURI",
+    "refresh_token": "トークンを更新",
+    "region": "リージョン",
+    "regions": {
+      "cn": "中国",
+      "de": "ドイツ",
+      "global": "グローバル",
+      "us": "アメリカ"
+    },
+    "root_folder_path": "Root folder path",
+    "site_id": "Site id"
+  },
+  "OnedriveAPP": {
+    "chunk_size": "チャンクサイズ",
+    "client_id": "クライアントID",
+    "client_secret": "クライアントシークレット",
+    "email": "Eメール",
+    "region": "リージョン",
+    "regions": {
+      "cn": "中国",
+      "de": "ドイツ",
+      "global": "グローバル",
+      "us": "アメリカ"
+    },
+    "root_folder_path": "Root folder path",
+    "tenant_id": "Tenant id"
+  },
+  "PikPak": {
+    "disable_media_link": "Disable media link",
+    "password": "Password",
+    "root_folder_id": "Root folder id",
+    "username": "Username"
+  },
+  "PikPakShare": {
+    "password": "Password",
+    "root_folder_id": "Root folder id",
+    "share_id": "Share id",
+    "share_pwd": "Share pwd",
+    "username": "Username"
+  },
+  "Quark": {
+    "cookie": "Cookie",
+    "order_by": "Order by",
+    "order_bys": {
+      "file_name": "File name",
+      "file_type": "File type",
+      "none": "None",
+      "updated_at": "Updated at"
+    },
+    "order_direction": "Order direction",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "root_folder_id": "Root folder id"
+  },
+  "S3": {
+    "access_key_id": "Access key id",
+    "add_filename_to_disposition": "Add filename to disposition",
+    "add_filename_to_disposition-tips": "Add filename to Content-Disposition header.",
+    "bucket": "Bucket",
+    "custom_host": "Custom host",
+    "endpoint": "Endpoint",
+    "force_path_style": "Force path style",
+    "list_object_version": "List object version",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "Placeholder",
+    "region": "Region",
+    "remove_bucket": "Remove bucket",
+    "remove_bucket-tips": "Remove bucket name from path when using custom host.",
+    "root_folder_path": "Root folder path",
+    "secret_access_key": "Secret access key",
+    "session_token": "Session token",
+    "sign_url_expire": "Sign url expire"
+  },
+  "SFTP": {
+    "address": "Address",
+    "password": "Password",
+    "private_key": "Private key",
+    "root_folder_path": "Root folder path",
+    "username": "Username"
+  },
+  "SMB": {
+    "address": "Address",
+    "password": "Password",
+    "root_folder_path": "Root folder path",
+    "share_name": "Share name",
+    "username": "Username"
+  },
+  "Seafile": {
+    "address": "Address",
+    "password": "Password",
+    "repoId": "RepoId",
+    "root_folder_path": "Root folder path",
+    "username": "Username"
+  },
+  "Teambition": {
+    "cookie": "Cookie",
+    "order_by": "Order by",
+    "order_bys": {
+      "created": "Created",
+      "fileName": "FileName",
+      "fileSize": "FileSize",
+      "updated": "Updated"
+    },
+    "order_direction": "Order direction",
+    "order_directions": {
+      "Asc": "Asc",
+      "Desc": "Desc"
+    },
+    "project_id": "Project id",
+    "region": "リージョン",
+    "regions": {
+      "china": "中国",
+      "international": "インターナショナル"
+    },
+    "root_folder_id": "Root folder id",
+    "use_s3_upload_method": "Use s3 upload method"
+  },
+  "Terabox": {
+    "cookie": "Cookie",
+    "download_api": "Download api",
+    "download_apis": {
+      "crack": "Crack",
+      "official": "Official"
+    },
+    "js_token": "Js token",
+    "order_by": "Order by",
+    "order_bys": {
+      "name": "Name",
+      "size": "Size",
+      "time": "Time"
+    },
+    "order_direction": "Order direction",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "root_folder_path": "Root folder path"
+  },
+  "Thunder": {
+    "captcha_token": "Captcha token",
+    "password": "Password",
+    "root_folder_id": "Root folder id",
+    "username": "Username"
+  },
+  "ThunderExpert": {
+    "algorithms": "アルゴリズム",
+    "algorithms-tips": "sign type is algorithms,this is required",
+    "captcha_sign": "Captcha sign",
+    "captcha_sign-tips": "sign type is captcha_sign,this is required",
+    "captcha_token": "Captchaトークン",
+    "client_id": "クライアントID",
+    "client_secret": "クライアントシークレット",
+    "client_version": "クライアントバージョン",
+    "device_id": "デバイスID",
+    "download_user_agent": "UserAgentをダウンロード",
+    "login_type": "ログインタイプ",
+    "login_types": {
+      "refresh_token": "トークンを更新",
+      "user": "ユーザー"
+    },
+    "package_name": "Package name",
+    "password": "Password",
+    "password-tips": "login type is user,this is required",
+    "refresh_token": "Refresh token",
+    "refresh_token-tips": "login type is refresh_token,this is required",
+    "root_folder_id": "Root folder id",
+    "sign_type": "Sign type",
+    "sign_types": {
+      "algorithms": "Algorithms",
+      "captcha_sign": "Captcha sign"
+    },
+    "timestamp": "Timestamp",
+    "timestamp-tips": "sign type is captcha_sign,this is required",
+    "use_video_url": "Use video url",
+    "user_agent": "User agent",
+    "username": "Username",
+    "username-tips": "login type is user,this is required"
+  },
+  "Trainbit": {
+    "AUSHELLPORTAL": "AUSHELLPORTAL",
+    "apikey": "Apikey",
+    "root_folder_id": "Root folder id"
+  },
+  "UC": {
+    "cookie": "Cookie",
+    "order_by": "Order by",
+    "order_bys": {
+      "file_name": "File name",
+      "file_type": "File type",
+      "none": "None",
+      "updated_at": "Updated at"
+    },
+    "order_direction": "Order direction",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "root_folder_id": "ルートフォルダID"
+  },
+  "USS": {
+    "anti_theft_chain_token": "アンチセフトチェーントークン",
+    "bucket": "Bucket",
+    "endpoint": "Endpoint",
+    "operator_name": "オペレーター名",
+    "operator_password": "オペレーターパスワード",
+    "root_folder_path": "ルートフォルダパス",
+    "sign_url_expire": "Sign url expire"
+  },
+  "UrlTree": {
+    "head_size": "ヘッドサイズ",
+    "head_size-tips": "Use head method to get file size, but it may be failed.",
+    "url_structure": "Url structure",
+    "url_structure-tips": "structure:FolderName:\n  [FileName:][FileSize:][Modified:]Url"
+  },
+  "Virtual": {
+    "max_file_size": "最大ファイルサイズ",
+    "min_file_size": "最小ファイルサイズ",
+    "num_file": "Num file",
+    "num_folder": "Num folder",
+    "root_folder_path": "ルートフォルダパス"
+  },
+  "WebDav": {
+    "address": "Address",
+    "password": "Password",
+    "root_folder_path": "Root folder path",
+    "username": "Username",
+    "vendor": "Vendor",
+    "vendors": {
+      "other": "Other",
+      "sharepoint": "Sharepoint"
+    }
+  },
+  "WeiYun": {
+    "cookies": "Cookies",
+    "order_by": "Order by",
+    "order_bys": {
+      "name": "Name",
+      "size": "Size",
+      "updated_at": "Updated at"
+    },
+    "order_direction": "Order direction",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "root_folder_id": "Root folder id",
+    "upload_thread": "Upload thread",
+    "upload_thread-tips": "4\u003c=thread\u003c=32"
+  },
+  "WoPan": {
+    "access_token": "Access token",
+    "family_id": "Family id",
+    "family_id-tips": "Keep it empty if you want to use your personal drive",
+    "refresh_token": "Refresh token",
+    "root_folder_id": "Root folder id",
+    "sort_rule": "Sort rule",
+    "sort_rules": {
+      "name_asc": "Name asc",
+      "name_desc": "Name desc",
+      "size_asc": "Size asc",
+      "size_desc": "Size desc",
+      "time_asc": "Time asc",
+      "time_desc": "Time desc"
+    }
+  },
+  "YandexDisk": {
+    "client_id": "クライアントID",
+    "client_secret": "クライアントシークレット",
+    "order_by": "Order by",
+    "order_bys": {
+      "created": "Created",
+      "modified": "Modified",
+      "name": "名前",
+      "path": "パス",
+      "size": "サイズ"
+    },
+    "order_direction": "Order direction",
+    "order_directions": {
+      "asc": "Asc",
+      "desc": "Desc"
+    },
+    "refresh_token": "Refresh token",
+    "root_folder_path": "Root folder path"
+  },
+  "config": {
+    "115 Cloud": {},
+    "123Pan": {},
+    "123PanLink": {},
+    "123PanShare": {},
+    "139Yun": {},
+    "189Cloud": {
+      "alert": "You can try to use 189PC driver if this driver does not work."
+    },
+    "189CloudPC": {},
+    "AList V2": {},
+    "AList V3": {},
+    "Alias": {},
+    "Aliyundrive": {
+      "alert": "There may be an infinite loop bug in this driver.\nDeprecated, no longer maintained and will be removed in a future version.\nWe recommend using the official driver AliyundriveOpen."
+    },
+    "AliyundriveOpen": {},
+    "AliyundriveShare": {},
+    "BaiduNetdisk": {},
+    "BaiduPhoto": {},
+    "BaiduShare": {},
+    "Cloudreve": {},
+    "Crypt": {},
+    "Dropbox": {},
+    "FTP": {},
+    "GoogleDrive": {},
+    "GooglePhoto": {},
+    "IPFS API": {},
+    "Lanzou": {},
+    "Local": {},
+    "MediaTrack": {},
+    "Mega_nz": {},
+    "MoPan": {
+      "alert": "This network disk may store your password in clear text. Please set your password carefully"
+    },
+    "Onedrive": {},
+    "OnedriveAPP": {},
+    "PikPak": {},
+    "PikPakShare": {},
+    "Quark": {},
+    "S3": {},
+    "SFTP": {},
+    "SMB": {},
+    "Seafile": {},
+    "Teambition": {},
+    "Terabox": {},
+    "Thunder": {},
+    "ThunderExpert": {},
+    "Trainbit": {},
+    "UC": {},
+    "USS": {},
+    "UrlTree": {},
+    "Virtual": {},
+    "WebDav": {},
+    "WeiYun": {},
+    "WoPan": {},
+    "YandexDisk": {}
+  },
+  "drivers": {
+    "115 Cloud": "115 Cloud",
+    "123Pan": "123Pan",
+    "123PanLink": "123PanLink",
+    "123PanShare": "123PanShare",
+    "139Yun": "139Yun",
+    "189Cloud": "189Cloud",
+    "189CloudPC": "189CloudPC",
+    "AList V2": "AList V2",
+    "AList V3": "AList V3",
+    "Alias": "Alias",
+    "Aliyundrive": "Aliyundrive",
+    "AliyundriveOpen": "AliyundriveOpen",
+    "AliyundriveShare": "AliyundriveShare",
+    "BaiduNetdisk": "BaiduNetdisk",
+    "BaiduPhoto": "BaiduPhoto",
+    "BaiduShare": "BaiduShare",
+    "Cloudreve": "Cloudreve",
+    "Crypt": "Crypt",
+    "Dropbox": "Dropbox",
+    "FTP": "FTP",
+    "GoogleDrive": "GoogleDrive",
+    "GooglePhoto": "GooglePhoto",
+    "IPFS API": "IPFS API",
+    "Lanzou": "Lanzou",
+    "Local": "Local",
+    "MediaTrack": "MediaTrack",
+    "Mega_nz": "Mega nz",
+    "MoPan": "MoPan",
+    "Onedrive": "Onedrive",
+    "OnedriveAPP": "OnedriveAPP",
+    "PikPak": "PikPak",
+    "PikPakShare": "PikPakShare",
+    "Quark": "Quark",
+    "S3": "S3",
+    "SFTP": "SFTP",
+    "SMB": "SMB",
+    "Seafile": "Seafile",
+    "Teambition": "Teambition",
+    "Terabox": "Terabox",
+    "Thunder": "Thunder",
+    "ThunderExpert": "ThunderExpert",
+    "Trainbit": "Trainbit",
+    "UC": "UC",
+    "USS": "USS",
+    "UrlTree": "UrlTree",
+    "Virtual": "Virtual",
+    "WebDav": "WebDav",
+    "WeiYun": "WeiYun",
+    "WoPan": "WoPan",
+    "YandexDisk": "YandexDisk"
+  }
+}
