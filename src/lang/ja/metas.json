@@ -1,8 +1,8 @@
 {
-  "path": "Path",
-  "password": "Password",
-  "write": "Write",
-  "hide": "Hide",
+  "path": "パス",
+  "password": "パスワード",
+  "write": "書き込む",
+  "hide": "隠す",
   "readme": "Readme",
   "apply_sub": "Apply to sub folder",
   "hide_help": "One regular expression per line",
