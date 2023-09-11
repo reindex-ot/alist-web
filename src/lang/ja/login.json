@@ -1,13 +1,13 @@
 {
   "login_to": "Login to the",
-  "username-tips": "Input your username",
-  "password-tips": "Input your password",
-  "otp-tips": "Input your OTP Code",
+  "username-tips": "ユーザー名を入力してください",
+  "password-tips": "パスワードを入力してください",
+  "otp-tips": "OTPコードを入力してください",
   "remember": "Remember me",
-  "forget": "Forget password?",
+  "forget": "パスワードを忘れましたか?",
   "forget_url": "https://alist.nn.ci/faq/howto.html#how-to-get-password-if-i-forget-it",
-  "clear": "Clear",
-  "login": "Login",
+  "clear": "クリア",
+  "login": "ログイン",
   "use_guest": "Browse as a guest",
-  "success": "Login successfully"
+  "success": "ログインに成功しました"
 }
